@@ -1,0 +1,180 @@
+7 5 Birthday celebration
+2 18 Movie night with friends
+11 22 Hiking adventure
+9 3 Beach picnic
+4 14 Dinner date with partner
+6 28 Yoga retreat
+8 10 Game night with family
+1 9 Skiing trip
+5 20 BBQ party
+10 15 Pumpkin carving
+12 7 Holiday shopping spree
+3 30 Museum visit
+7 16 Road trip with buddies
+2 22 Karaoke night out
+11 9 Book club meeting
+9 28 Cooking class
+4 3 Stargazing night
+6 19 Music festival
+8 26 Bonfire gathering
+1 14 Ice skating fun
+5 9 Gardening workshop
+10 4 Potluck dinner
+12 26 Secret Santa exchange
+3 18 Photography excursion
+7 10 Camping under the stars
+2 2 Art gallery tour
+11 27 Volunteer work
+9 9 Wine tasting
+4 20 Farmers market visit
+6 12 Dance party
+8 3 Picnic in the park
+1 25 Hot air balloon ride
+5 16 Nature hike
+10 7 Apple picking
+12 30 New Year's Eve celebration
+3 25 Charity fundraiser
+7 19 Outdoor movie screening
+2 9 Baking competition
+11 2 Museum sleepover
+9 17 Kayaking adventure
+4 8 Picnic by the lake
+6 23 Board game marathon
+8 14 Beach bonfire
+1 3 DIY craft workshop
+5 28 Pottery class
+10 21 Pumpkin patch visit
+12 14 Caroling with friends
+3 6 Trip to the zoo
+7 1 Barbecue cookout
+2 11 Visit to botanical garden
+11 5 Costume party
+9 24 Horseback riding
+4 17 Fishing excursion
+6 7 Visit to aquarium
+8 20 Family reunion
+1 12 Baking cookies
+5 5 Visit to butterfly garden
+10 30 Halloween party
+12 23 Christmas tree decorating
+3 13 Comedy show
+7 8 Picnic in the countryside
+2 28 Wine and cheese tasting
+11 19 Scavenger hunt
+9 2 Paddleboarding adventure
+4 13 Brunch with friends
+6 27 Outdoor concert
+8 9 Beach volleyball tournament
+1 20 Movie marathon at home
+5 11 Bird watching
+10 2 Game of mini-golf
+12 16 Gingerbread house making
+3 2 Visit to botanical garden
+7 22 Day trip to the beach
+2 15 DIY home improvement
+11 10 Board game night
+9 29 Picnic in the mountains
+4 4 Museum day
+6 20 Street food festival
+8 5 Fishing trip
+1 16 Dinner at a fancy restaurant
+5 1 Painting class
+10 26 Harvest festival
+12 9 Christmas shopping
+3 29 Trip to the amusement park
+7 14 Outdoor barbecue
+2 6 Visit to historical landmark
+11 1 Bonfire night
+9 18 Movie marathon at home
+4 1 Easter egg hunt
+6 16 Visit to a botanical garden
+8 31 Farewell party
+1 23 Spa day with friends
+5 14 Visit to a vineyard
+10 9 Movie night at home
+12 2 Secret Santa gift exchange
+3 17 Trivia night at the pub
+7 11 Picnic in the park
+2 1 Chocolate tasting
+11 24 Thanksgiving dinner
+9 8 Hot air balloon ride
+4 21 Picnic in the countryside
+6 5 DIY craft day
+8 22 Beach day with friends
+1 6 Baking cupcakes
+5 23 Visit to a waterfall
+10 18 Bonfire night
+12 11 Ice skating at the rink
+3 1 Family game night
+7 27 Beach bonfire party
+2 14 Valentine's Day celebration
+11 7 Movie marathon with popcorn
+9 26 Visit to an art museum
+4 9 Visit to a botanical garden
+6 24 BBQ cookout
+8 10 Bowling night
+1 1 New Year's Day brunch
+5 19 Outdoor picnic
+10 14 Corn maze adventure
+12 6 Visit to a Christmas market
+3 20 Movie night with popcorn
+7 4 Fourth of July fireworks
+2 17 DIY home decor
+11 12 Potluck dinner with friends
+9 1 Day at the beach
+4 22 Easter brunch
+6 9 Visit to the zoo
+8 24 Road trip with family
+1 15 Wine tasting at vineyard
+5 8 Visit to a farm
+10 3 Pumpkin carving party
+12 25 Christmas dinner
+3 19 Dinner at a fancy restaurant
+7 13 BBQ cookout with friends
+2 5 Board game night
+11 30 Holiday baking
+9 15 Picnic by the river
+4 6 Outdoor concert
+6 21 Visit to the farmer's market
+8 7 Beach volleyball tournament
+1 27 Cooking class with chef
+5 12 Visit to a botanical garden
+10 8 Visit to a pumpkin patch
+12 1 Decorating the house for Christmas
+3 15 Trip to the beach
+7 29 Bonfire on the beach
+2 10 Spa day with friends
+11 3 Game night with friends
+9 20 Potluck dinner
+4 15 Bike ride in the park
+6 30 Karaoke night with friends
+8 15 Family movie night
+1 8 Ice skating at the rink
+5 25 Picnic in the park
+10 20 Costume party
+12 13 Holiday movie marathon
+3 5 Day at the museum
+7 23 Picnic in the park
+2 4 Dinner at a fancy restaurant
+11 29 Thanksgiving potluck
+9 14 Visit to a botanical garden
+4 7 Visit to the beach
+6 22 BBQ party with friends
+8 2 Pool party
+1 24 Dinner at a cozy restaurant
+5 15 Visit to a botanical garden
+10 10 Movie night with popcorn
+12 3 Winter holiday shopping
+3 21 Visit to the zoo
+7 5 Beach day with friends
+2 19 Wine tasting event
+11 22 Friendsgiving dinner
+9 3 BBQ picnic
+4 14 Museum visit
+6 28 Outdoor yoga session
+8 10 Family game night
+1 9 Ski trip
+5 20 BBQ with friends
+10 15 Pumpkin carving contest
+12 7 Christmas shopping
+3 12 Vacation trip
